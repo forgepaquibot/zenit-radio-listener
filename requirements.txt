@@ -1,0 +1,3 @@
+python-dotenv
+SpeechRecognition
+# Also install: winget install Gyan.FFmpeg 
